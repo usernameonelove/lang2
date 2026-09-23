@@ -1,0 +1,10 @@
+{
+  "name": "Языки — личный словарь",
+  "short_name": "Языки",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#070707",
+  "theme_color": "#070707",
+  "description": "Личное приложение для изучения языков: слова, фразы и карточки.",
+  "icons": []
+}
